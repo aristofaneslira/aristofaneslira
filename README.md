@@ -1,6 +1,6 @@
 ### hi, my name is Aristófanes 🖔
 
-📱 Contact
+## 📱 Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristofanes-lira-36072714a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aristofaneslira)
@@ -8,6 +8,7 @@
 
 
 ![Aristófanes GitHub stats](https://github-readme-stats.vercel.app/api?username=aristofaneslira&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristofaneslira&compact=true)](https://github.com/aristofaneslira/github-readme-stats)
 
 ### Technologies
 
@@ -24,4 +25,5 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="vs" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>  
+
 
