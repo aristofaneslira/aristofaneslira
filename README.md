@@ -6,9 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aristofaneslira)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aristofanes.lira@gmail.com)
 
-
-![Aristófanes GitHub stats](https://github-readme-stats.vercel.app/api?username=aristofaneslira&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristofaneslira&compact=true)](https://github.com/aristofaneslira/github-readme-stats)
+![Aristófanes GitHub stats](https://github-readme-stats.vercel.app/api?username=aristofaneslira&show_icons=true&theme=dark)
+
 
 ### Technologies
 
