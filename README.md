@@ -28,5 +28,4 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/aristofaneslira/count.svg" /></p>
 
-![Snake animation](https://github.com/aristofaneslira/aristofaneslira/blob/output/github-contribution-grid-snake.svg)
 
